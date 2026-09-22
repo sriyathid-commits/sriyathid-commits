@@ -21,18 +21,25 @@ I work across Artificial Intelligence, Machine Learning, Computer Vision, Full-S
 🛠️ Tech Stack
 💻 Languages
 Python · Java · C++ · C · JavaScript · TypeScript · SQL
+
 🤖 AI / Machine Learning
 PyTorch · TensorFlow · Scikit-learn · OpenCV · Pandas · NumPy · Matplotlib
+
 🧠 Generative AI & AI Engineering
 LLMs · AI Agents · RAG · Prompt Engineering · Agentic Workflows
+
 🌐 Backend
 FastAPI · Node.js · Express.js
+
 🎨 Frontend
 React · Next.js · Tailwind CSS
+
 🗄️ Databases
 PostgreSQL · MySQL · MongoDB · SQLite
+
 ☁️ Cloud & Deployment
 AWS · Google Cloud · Microsoft Azure · Vercel · Render
+
 🔧 Developer Tools
 Git · GitHub · Figma
 
@@ -87,12 +94,10 @@ Focus: Machine Learning · Predictive Analytics · Robotics
 
 🤝 Connect With Me
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/sriyathid-commits)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/sriyathi-thirumalavasu-b64612317/)
-""Email" (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:sriyathid@gmail.com)
+""GitHub" ((https://www.linkedin.com/in/sriyathi-thirumalavasu-b64612317/)
+
 
 ---
 
 💡 Building AI systems. Solving real problems. Learning by shipping.
 
-"Profile Views" (https://komarev.com/ghpvc/?username=sriyathid-commits&style=flat-square)
